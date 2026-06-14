@@ -11,5 +11,5 @@ This is a simple **Rock, Paper, Scissors Game** developed for Fun & Practice, In
 1. First the **Options Mentioned Above** will be **Displayed to the User**.
 2. User will Enter his Choice then Computer will Choose Randomly.
 3. **WINNER, LOOSER or TIE** will be Displayed for the **Particular Round Along their both's Score**.
-4. This **loops Continues** untill all the Rounds Finishes.
-5. In the End, Who WINS and Who Loose or it is a TIE will be Displayed Along their both's Final Score.
+4. This **loops Continues** Untill all the **Rounds Finishes**.
+5. In the End, **Who WINS and Who Loose or it is a TIE** will be **Displayed Along their both's Final Score**.
